@@ -2,10 +2,7 @@
 
 Real-time Solana price charts built with [Liveline](https://www.npmjs.com/package/liveline), the [Solana Tracker Data API SDK](https://github.com/solanatracker/data-api-sdk), and [Next.js](https://nextjs.org/).
 
-
-<video width="1000" height="600" controls>
-  <source src="https://videos.solanatracker.io/b2be6329-c58c-41a0-b4f4-2a31e9c2c4e8.mp4" type="video/mp4">
-</video>
+![](https://i.gyazo.com/e32acd0c0b7195bf1532f7151c1a4ada.png)
 
 ## Stack
 
